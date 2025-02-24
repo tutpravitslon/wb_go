@@ -1,1 +1,3 @@
-# wb_go
+``` bash
+go mod init
+```
